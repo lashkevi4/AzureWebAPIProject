@@ -28,6 +28,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\index.html" />
+    <Content Remove="appsettings-example.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\index.html" />
